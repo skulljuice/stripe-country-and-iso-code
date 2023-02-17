@@ -1,0 +1,364 @@
+[{
+  id: "AL",
+  name: "Albania (AL)"
+}, {
+  id: "DZ",
+  name: "Algeria (DZ)"
+}, {
+  id: "AO",
+  name: "Angola (AO)"
+}, {
+  id: "AG",
+  name: "Antigua and Barbuda (AG)"
+}, {
+  id: "AR",
+  name: "Argentina (AR)"
+}, {
+  id: "AM",
+  name: "Armenia (AM)"
+}, {
+  id: "AU",
+  name: "Australia (AU)"
+}, {
+  id: "AT",
+  name: "Austria (AT)"
+}, {
+  id: "AZ",
+  name: "Azerbaijan (AZ)"
+}, {
+  id: "BS",
+  name: "Bahamas (BS)"
+}, {
+  id: "BH",
+  name: "Bahrain (BH)"
+}, {
+  id: "BD",
+  name: "Bangladesh (BD)"
+}, {
+  id: "BE",
+  name: "Belgium (BE)"
+}, {
+  id: "BJ",
+  name: "Benin (BJ)"
+}, {
+  id: "BT",
+  name: "Bhutan (BT)"
+}, {
+  id: "BO",
+  name: "Bolivia (BO)"
+}, {
+  id: "BA",
+  name: "Bosnia and Herzegovina (BA)"
+}, {
+  id: "BW",
+  name: "Botswana (BW)"
+}, {
+  id: "BR",
+  name: "Brazil (BR)"
+}, {
+  id: "BN",
+  name: "Brunei (BN)"
+}, {
+  id: "BG",
+  name: "Bulgaria (BG)"
+}, {
+  id: "KH",
+  name: "Cambodia (KH)"
+}, {
+  id: "CA",
+  name: "Canada (CA)"
+}, {
+  id: "CL",
+  name: "Chile (CL)"
+}, {
+  id: "CO",
+  name: "Colombia (CO)"
+}, {
+  id: "CR",
+  name: "Costa Rica (CR)"
+}, {
+  id: "CI",
+  name: "Côte d'Ivoire (CI)"
+}, {
+  id: "HR",
+  name: "Croatia (HR)"
+}, {
+  id: "CY",
+  name: "Cyprus (CY)"
+}, {
+  id: "CZ",
+  name: "Czech Republic (CZ)"
+}, {
+  id: "DK",
+  name: "Denmark (DK)"
+}, {
+  id: "DO",
+  name: "Dominican Republic (DO)"
+}, {
+  id: "EC",
+  name: "Ecuador (EC)"
+}, {
+  id: "EG",
+  name: "Egypt (EG)"
+}, {
+  id: "SV",
+  name: "El Salvador (SV)"
+}, {
+  id: "EE",
+  name: "Estonia (EE)"
+}, {
+  id: "ET",
+  name: "Ethiopia (ET)"
+}, {
+  id: "FI",
+  name: "Finland (FI)"
+}, {
+  id: "FR",
+  name: "France (FR)"
+}, {
+  id: "GA",
+  name: "Gabon (GA)"
+}, {
+  id: "GM",
+  name: "Gambia (GM)"
+}, {
+  id: "DE",
+  name: "Germany (DE)"
+}, {
+  id: "GH",
+  name: "Ghana (GH)"
+}, {
+  id: "GI",
+  name: "Gibraltar (GI)"
+}, {
+  id: "GR",
+  name: "Greece (GR)"
+}, {
+  id: "GT",
+  name: "Guatemala (GT)"
+}, {
+  id: "GY",
+  name: "Guyana (GY)"
+}, {
+  id: "HK",
+  name: "Hong Kong (HK)"
+}, {
+  id: "HU",
+  name: "Hungary (HU)"
+}, {
+  id: "IS",
+  name: "Iceland (IS)"
+}, {
+  id: "IN",
+  name: "India (IN)"
+}, {
+  id: "ID",
+  name: "Indonesia (ID)"
+}, {
+  id: "IE",
+  name: "Ireland (IE)"
+}, {
+  id: "IL",
+  name: "Israel (IL)"
+}, {
+  id: "IT",
+  name: "Italy (IT)"
+}, {
+  id: "JM",
+  name: "Jamaica (JM)"
+}, {
+  id: "JP",
+  name: "Japan (JP)"
+}, {
+  id: "JO",
+  name: "Jordan (JO)"
+}, {
+  id: "KZ",
+  name: "Kazakhstan (KZ)"
+}, {
+  id: "KE",
+  name: "Kenya (KE)"
+}, {
+  id: "KW",
+  name: "Kuwait (KW)"
+}, {
+  id: "LA",
+  name: "Laos (LA)"
+}, {
+  id: "LV",
+  name: "Latvia (LV)"
+}, {
+  id: "LI",
+  name: "Liechtenstein (LI)"
+}, {
+  id: "LT",
+  name: "Lithuania (LT)"
+}, {
+  id: "LU",
+  name: "Luxembourg (LU)"
+}, {
+  id: "MO",
+  name: "Macau (MO)"
+}, {
+  id: "MG",
+  name: "Madagascar (MG)"
+}, {
+  id: "MY",
+  name: "Malaysia (MY)"
+}, {
+  id: "MT",
+  name: "Malta (MT)"
+}, {
+  id: "MU",
+  name: "Mauritius (MU)"
+}, {
+  id: "MX",
+  name: "Mexico (MX)"
+}, {
+  id: "MD",
+  name: "Moldova (MD)"
+}, {
+  id: "MC",
+  name: "Monaco (MC)"
+}, {
+  id: "MN",
+  name: "Mongolia (MN)"
+}, {
+  id: "MA",
+  name: "Morocco (MA)"
+}, {
+  id: "MZ",
+  name: "Mozambique (MZ)"
+}, {
+  id: "NA",
+  name: "Namibia (NA)"
+}, {
+  id: "NL",
+  name: "Netherlands (NL)"
+}, {
+  id: "NZ",
+  name: "New Zealand (NZ)"
+}, {
+  id: "NE",
+  name: "Niger (NE)"
+}, {
+  id: "NG",
+  name: "Nigeria (NG)"
+}, {
+  id: "MK",
+  name: "North Macedonia (MK)"
+}, {
+  id: "NO",
+  name: "Norway (NO)"
+}, {
+  id: "OM",
+  name: "Oman (OM)"
+}, {
+  id: "PK",
+  name: "Pakistan (PK)"
+}, {
+  id: "PA",
+  name: "Panama (PA)"
+}, {
+  id: "PY",
+  name: "Paraguay (PY)"
+}, {
+  id: "PE",
+  name: "Peru (PE)"
+}, {
+  id: "PH",
+  name: "Philippines (PH)"
+}, {
+  id: "PL",
+  name: "Poland (PL)"
+}, {
+  id: "PT",
+  name: "Portugal (PT)"
+}, {
+  id: "QA",
+  name: "Qatar (QA)"
+}, {
+  id: "RO",
+  name: "Romania (RO)"
+}, {
+  id: "RW",
+  name: "Rwanda (RW)"
+}, {
+  id: "LC",
+  name: "Saint Lucia (LC)"
+}, {
+  id: "SA",
+  name: "Saudi Arabia (SA)"
+}, {
+  id: "SM",
+  name: "San Marino (SM)"
+}, {
+  id: "SN",
+  name: "Senegal (SN)"
+}, {
+  id: "RS",
+  name: "Serbia (RS)"
+}, {
+  id: "SG",
+  name: "Singapore (SG)"
+}, {
+  id: "SK",
+  name: "Slovakia (SK)"
+}, {
+  id: "SI",
+  name: "Slovenia (SI)"
+}, {
+  id: "ZA",
+  name: "South Africa (ZA)"
+}, {
+  id: "KR",
+  name: "South Korea (KR)"
+}, {
+  id: "ES",
+  name: "Spain (ES)"
+}, {
+  id: "LK",
+  name: "Sri Lanka (LK)"
+}, {
+  id: "SE",
+  name: "Sweden (SE)"
+}, {
+  id: "CH",
+  name: "Switzerland (CH)"
+}, {
+  id: "TW",
+  name: "Taiwan (TW)"
+}, {
+  id: "TZ",
+  name: "Tanzania (TZ)"
+}, {
+  id: "TH",
+  name: "Thailand (TH)"
+}, {
+  id: "TT",
+  name: "Trinidad &amp; Tobago (TT)"
+}, {
+  id: "TN",
+  name: "Tunisia (TN)"
+}, {
+  id: "TR",
+  name: "Turkey (TR)"
+}, {
+  id: "GB",
+  name: "United Kingdom (GB)"
+}, {
+  id: "US",
+  name: "United States (US)"
+}, {
+  id: "AE",
+  name: "United Arab Emirates (AE)"
+}, {
+  id: "UY",
+  name: "Uruguay (UY)"
+}, {
+  id: "UZ",
+  name: "Uzbekistan (UZ)"
+}, {
+  id: "VN",
+  name: "Vietnam (VN)"
+}]
